@@ -1,0 +1,18 @@
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.exe
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.deps.json
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.runtimeconfig.json
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.dll
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\bin\Debug\netcoreapp3.1\Dependency Injection.pdb
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\Dependency Injection.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\staticwebassets\Dependency Injection.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.dll
+C:\Users\ivano\source\repos\Dependency Injection\Dependency Injection\obj\Debug\netcoreapp3.1\Dependency Injection.pdb
