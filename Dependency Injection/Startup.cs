@@ -11,17 +11,24 @@ namespace Dependency_Injection
     {
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddTransient<IMessageSender, SmsMessageSender>();
-            //services.AddTransient<TimeService>();
+            services.AddTransient<IMessageSender, EmailMessageSender>();
+            services.AddTransient<TimeService>();
+            services.AddTransient<MessageService>();
             services.AddTimeService();
         }
 
-        public void Configure(IApplicationBuilder app, TimeService time)
+        
+
+        public void Configure(IApplicationBuilder app)
         {
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync($"<h1>" + time.GetTime() + "</h1>");
-            });
+            app.UseMiddleware<MessageMiddleware>();
+            //app.Run(async (context) =>
+            //{
+            //    MessageService sender =
+            //                        context.RequestServices.GetService<MessageService>();
+            //    await context.Response.WriteAsync($"<h1>" + sender.SendMessage() + "</h1>");
+            //});
+
         }
     }
 }
